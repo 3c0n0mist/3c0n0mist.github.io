@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## trying to fix my website
 
 You can use the [editor on GitHub](https://github.com/3c0n0mist/3c0n0mist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
