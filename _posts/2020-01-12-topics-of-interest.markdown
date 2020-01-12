@@ -11,7 +11,7 @@ categories: discussion
 ## 1. Synthetic Control
 
 ## 2. Financial model
-that uses autoML to provide insights on the best way to retain or maximise your net worth.
+that uses auto ML to provide insights on the best way to retain or maximise your net worth.
 *Parameters:
    - Assets such as Gold/Crude
    - Food stocks such as Onions.etc
@@ -20,6 +20,8 @@ that uses autoML to provide insights on the best way to retain or maximise your 
 
 ## 3. Academic System
 *Is the current academic system broken ?*
-students are taught in class to compete and achieve A/A*s, curiousity in the subject matter is disincentivized,
+
+students are taught in class to compete and achieve A/A*s, curiosity in the subject matter is disincentivized,
 teachers/textbook material cannot be challenged.
+
 *Does this mean that we have reached the end of the road in the subject, as we choose to think within the confined zone, or the Capitalism has made a system where every student is lead into an abyss, where the educational institutions earn on every stage.*	
