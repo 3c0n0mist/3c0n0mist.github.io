@@ -12,7 +12,7 @@ categories: discussion
 
 ## 2. Financial model
 that uses auto ML to provide insights on the best way to retain or maximise your net worth.
-*Parameters:
+**Parameters:**
    - Assets such as Gold/Crude
    - Food stocks such as Onions.etc
    - ETFs
@@ -24,4 +24,4 @@ that uses auto ML to provide insights on the best way to retain or maximise your
 students are taught in class to compete and achieve A/A*s, curiosity in the subject matter is disincentivized,
 teachers/textbook material cannot be challenged.
 
-*Does this mean that we have reached the end of the road in the subject, as we choose to think within the confined zone, or the Capitalism has made a system where every student is lead into an abyss, where the educational institutions earn on every stage.*	
+*Does this mean that we have reached the end of the road in the subject, as we choose to think within the confined zone, or that Capitalism has led us to a system where every student is lead into an abyss, profiting the educational institutions on every stage.*	
