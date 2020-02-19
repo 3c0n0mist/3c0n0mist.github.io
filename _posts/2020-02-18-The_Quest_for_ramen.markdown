@@ -27,7 +27,7 @@ The results are as follows
 * "Ramen Jinya Japanese Noodle Bar"
 
 ## Future
-I like to work on this further, possibly using exogenous data such as reviews and proximity to the user. To determine if the restaurant is a good pick.
+I would like to work on this further, possibly using exogenous data such as reviews and proximity to the user. To determine if the restaurant is a good pick.
 
 After developing this model, i would like to implement similar models in other cuisines such as Italian Pasta. Then combine them into an Application that recommends restaurant picks without taking into account advertising fees paid to google. 
 
