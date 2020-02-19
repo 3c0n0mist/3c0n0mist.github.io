@@ -1,7 +1,9 @@
-
-Tue Feb 18 23:20:17 PST 2020
-
-# The Quest for Ramen
+---
+layout: post
+title:  "The Quest for Ramen"
+date:   2020-02-18 23:57:11 PST 2020
+categories: discussion
+---
 
 I have been visiting three great ramen spots in Vancouver for the past three years, its time i find another great spot.
 I decided to avoid searching on google, as those restaurants are likely to be crowded.
